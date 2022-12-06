@@ -1,1 +1,3 @@
 # pensamentocomputacional
+
+bianca lopes teixeira
